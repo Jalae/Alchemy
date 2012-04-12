@@ -74,16 +74,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Alchemy.h" />
+    <ClInclude Include="Alchemy_Board.h" />
+    <ClInclude Include="Alchemy_StatusField.h" />
     <ClInclude Include="Array\Array.h" />
     <ClInclude Include="Array\Array2D.h" />
     <ClInclude Include="Array\Exception.h" />
     <ClInclude Include="Array\k_string.h" />
     <ClInclude Include="Array\Row.h" />
+    <ClInclude Include="Alchemy_Cell.h" />
     <ClInclude Include="console\Console.h" />
     <ClInclude Include="console\Console_Aux.h" />
     <ClInclude Include="console\Console_InOut.h" />
+    <ClInclude Include="console\Console_Object.h" />
     <ClInclude Include="console\Console_Output.h" />
     <ClInclude Include="console\ioState.h" />
+    <ClInclude Include="Alchemy_Shape.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Array\Exception.cpp" />

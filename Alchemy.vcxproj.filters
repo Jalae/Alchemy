@@ -54,6 +54,24 @@
     <ClInclude Include="Array\k_string.h">
       <Filter>Header Files\Array</Filter>
     </ClInclude>
+    <ClInclude Include="Alchemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Alchemy_StatusField.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Alchemy_Board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Alchemy_Cell.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Alchemy_Shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="console\Console_Object.h">
+      <Filter>Header Files\Console</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Array\Exception.cpp">
